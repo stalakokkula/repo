@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "transactionDate": "",
+	  "transactionAmount": "25.15",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 2,
+      "transactionDate": "",
+	  "transactionAmount": "44.15",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 3,
+      "transactionDate": "",
+	  "transactionAmount": "756.15",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 4,
+      "transactionDate": "",
+	  "transactionAmount": "66.00",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 5,
+      "transactionDate": "",
+	  "transactionAmount": "55.15",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 6,
+      "transactionDate": "",
+	  "transactionAmount": "25.32",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 7,
+      "transactionDate": "",
+	  "transactionAmount": "22.66",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+	{
+      "id": 8,
+      "transactionDate": "",
+	  "transactionAmount": "23.33",
+	  "hasClaimed": "false",
+	  "isEligible": "true"
+    },
+  ]  
+}
